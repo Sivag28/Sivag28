@@ -138,6 +138,4 @@ Aspiring Software Developer with hands-on experience in full-stack development a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=80&section=footer&text=Open%20to%20internships%20and%20collaboration&fontColor=8B949E&fontSize=16&fontAlignY=50" alt="Footer" width="100%"/>
-
 </div>
